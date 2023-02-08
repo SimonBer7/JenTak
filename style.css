@@ -1,0 +1,39 @@
+
+.menu {
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    height: 150px;
+    background-color: bisque;
+    border: 2px solid black;
+}
+
+.menu h1{
+    float: left;
+    margin-left: 150px;
+}
+
+.menu ul{
+    float: right;
+    margin-right: 150px;
+}
+
+#navBar li {
+    padding: 10px;
+    border: 2px solid black;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+    background-color: #dddddd;
+    text-decoration-line:none;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+    display: block;
+}
+
+
+
